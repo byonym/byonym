@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Youngmok's%20github%20page)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=E3A6A&text=Youngmok's%20Github%20Page&fontSize=40&fontColor=FD866E)
 
 Techs that I have used
 
